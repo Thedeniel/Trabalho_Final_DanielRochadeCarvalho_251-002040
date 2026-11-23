@@ -2,6 +2,7 @@
 
 # Daniel Rocha de Carvalho
 # 251-002040
+# Tema: Gerenciamento de Biblioteca
 ---
 
 Projeto final de Estruturas de Dados (Tema 5). É um sistema de terminal em Python que controla leitores, reservas de livros, devoluções e a organização do acervo, usando Lista, Fila, Pilha e Árvore.
