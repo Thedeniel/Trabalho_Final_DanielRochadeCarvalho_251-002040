@@ -48,7 +48,7 @@ O sistema começa vazio. Use as opções 5 e 6 do menu principal para salvar e c
 * Um leitor não entra duas vezes na fila para o mesmo livro.
 * Ao remover uma área da árvore que tem subáreas, o sistema pede confirmação.
 
-## Formato do arquivo `dados\\\\\\\_sistema.txt`
+## Formato do arquivo `dados_sistema.txt`
 
 Uma linha por registro, começando pelo identificador da estrutura e com campos separados por `|`:
 
