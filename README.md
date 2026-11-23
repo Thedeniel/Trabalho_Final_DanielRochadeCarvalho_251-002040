@@ -17,7 +17,7 @@ python main.py
 
 Em alguns sistemas o comando é `python3 main.py`.
 
-O sistema começa vazio. Use as opções 5 e 6 do menu principal para salvar e carregar os dados. Os dados ficam no arquivo `dados\\\\\\\_sistema.txt`, criado na mesma pasta do `main.py`.
+O sistema começa vazio. Use as opções 5 e 6 do menu principal para salvar e carregar os dados. Os dados ficam no arquivo `dados_sistema.txt`, criado na mesma pasta do `main.py`.
 
 ## Menu
 
